@@ -3,7 +3,7 @@
 print(not True)
 print(not False)
 
-# Operador lógico not
+# Logical operator not
 print('NOT AND')
 print('not True and True: ', not (True and True))
 print('not True and False: ', not (True and False))
