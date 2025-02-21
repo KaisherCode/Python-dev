@@ -3,7 +3,7 @@
 is_developer = True
 print(type(is_developer)) # output: boolean
 
-is_single = False
+is_developer = False
 print(type(is_developer)) # output: boolean
 
 print(not True)  # output: False
