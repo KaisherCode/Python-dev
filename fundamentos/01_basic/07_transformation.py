@@ -23,4 +23,4 @@ age = input("Enter your age: =>")
 print(type(age))
 age = int(age)
 age += 10
-print(f"Your age in will be: {age}")
+print(f"Your age in 10 years will be: {age}")
