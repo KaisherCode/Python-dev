@@ -1,7 +1,7 @@
 # Tuples: We can't make changes to them. We using ()
 
 numbers = (1,2,3,4) # Tuple inmmutable
-strings = ('nico','zule','santi','nico') # Tuple
+strings = ('nicolle','zule','santi','nicolle') # Tuple
 print(numbers)
 print(type(numbers))
 
