@@ -14,8 +14,6 @@
 
 ## ⚙️ Requisitos
 
-> [!IMPORTANT]
-
 > Es necesario instalar:
 
 > - Python 3.x
