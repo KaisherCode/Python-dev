@@ -7,5 +7,5 @@ temperature = 35
 
 print(type(lives))  # output: int
 print(type(age))    # output: int    
-print(type(weight)) # output: int
-print(type(temperature)) # output: float
+print(type(weight)) # output: float
+print(type(temperature)) # output: int
